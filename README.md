@@ -4,13 +4,24 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d4rk4ns&theme=radical&no-frame=true" alt="d4rk4ns" /></a> </p>
 
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/D4rk4ns/D4rk4ns/master/gifs/coder.gif" />
 
+### Talking about Personal Stuffs:
 
-- 🌱 I’m currently learning **React, Next, Nest**
+- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
+- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/iampavangandhi).
+- 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
+- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
+- 📫 &nbsp; How to reach me: **jonathanlsr9611@gmail.com**.
+- 📝 &nbsp; Checkout my [Resume]().
 
-- 📫 How to reach me **jonathanlsr9611@gmail.com**
-
-- 📄 Know about my experiences []()
+## 📅 Hobbies
+- 💻 &nbsp; Solve programming problems at Codewars, Hackerrank...
+- Watch anime and Tv shows
+- 📰 &nbsp; Read some manga
+- Play videogames
+- etc.
 
 
 ## 🌠 My knowledge
