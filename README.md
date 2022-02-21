@@ -98,3 +98,9 @@ In recent years I have gained a lot of knowledge in various programming language
 </p>
 
 
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/d4rk4ns/ColoredBadges/master/svg/Bottom.svg" alt="Github Stats" />
+</p>
+
