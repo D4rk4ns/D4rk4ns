@@ -4,6 +4,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d4rk4ns&theme=radical&no-frame=true" alt="d4rk4ns" /></a> </p>
 
+<div>
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/D4rk4ns/D4rk4ns/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuffs:
@@ -16,6 +17,9 @@
 - 📫 &nbsp; How to reach me: **jonathanlsr9611@gmail.com**.
 - 📝 &nbsp; Checkout my [Resume]().
 
+</div>
+<br>
+
 ## 📅 Hobbies
 - 💻 &nbsp; Solve programming problems at Codewars, Hackerrank...
 - Watch anime and Tv shows
@@ -23,6 +27,7 @@
 - Play videogames
 - etc.
 
+<br>
 
 ## 🌠 My knowledge
 
