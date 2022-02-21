@@ -22,9 +22,9 @@
 
 ## 📅 Hobbies
 - 💻 &nbsp; Solve programming problems at Codewars, Hackerrank...
-- Watch anime and Tv shows
+- 🖥️ &nbsp; Watch anime and Tv shows
 - 📰 &nbsp; Read some manga
-- Play videogames
+- 🎮 &nbsp; Play videogames
 - etc.
 
 <br>
